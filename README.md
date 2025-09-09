@@ -11,6 +11,7 @@ This project analyzes sales transaction data to identify business insights such 
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
+- Google Colab
 
 ## 📊 Key Insights
 - Sales spike in November–December, suggesting holiday season demand.
@@ -18,6 +19,12 @@ This project analyzes sales transaction data to identify business insights such 
 - A small number of products dominate sales.
 
 ## 🚀 How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/Sales-Data-Analysis.git
+1. Open the notebook `sales_analysis.ipynb` in [Google Colab](https://colab.research.google.com/).
+2. Upload the dataset file (`data (1).csv`) when prompted.
+3. Run all cells to see the analysis and visualizations.
+
+## 📈 Visuals
+(Add screenshots of your charts here if possible)
+
+---
+👩‍💻 Created by [Your Name]
